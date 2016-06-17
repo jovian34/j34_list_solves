@@ -4,6 +4,10 @@ https://sites.google.com/site/prologsite/prolog-problems/1
 Example:
 ?- my_last(X,[a,b,c,d]).
 X = d
+
+Prolog problem is above
+
+Carl James' solution is below
 '''
 
 my_list = ['a','b','c','d']

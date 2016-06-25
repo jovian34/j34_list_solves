@@ -10,10 +10,7 @@ X = [g,h,a,b,c,d,e,f]
 
 Hint: Use the predefined predicates length/2 and append/3, as well as the result of problem 1.17.
 
-A list is either empty or it is composed of a first element (head)
-and a tail, which is a list itself. In Prolog we represent the
-empty list by the atom [] and a non-empty list by a term [H|T]
-where H denotes the head and T denotes the tail.
+Carl James' solution in Python 3.5.1 is below
 '''
 
 my_list = ['a','b','c','d','e','f','g','h']

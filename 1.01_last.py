@@ -7,7 +7,7 @@ X = d
 
 Prolog problem is above
 
-Carl James' solution is below
+Carl James' solution in Python 3.5.1 is below
 '''
 
 my_list = ['a','b','c','d']

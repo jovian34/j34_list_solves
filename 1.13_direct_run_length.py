@@ -11,10 +11,7 @@ Example:
 ?- encode_direct([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
 X = [[4,a],b,[2,c],[2,a],d,[4,e]]
 
-A list is either empty or it is composed of a first element (head)
-and a tail, which is a list itself. In Prolog we represent the
-empty list by the atom [] and a non-empty list by a term [H|T]
-where H denotes the head and T denotes the tail.
+Carl James' solution in Python 3.5.1 is below
 '''
 
 my_list = ['a','a','a','a','b','c','c','a','a','d','e','e','e','e']
